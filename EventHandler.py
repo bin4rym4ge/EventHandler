@@ -10,4 +10,4 @@ class EventHandler(object):
 
 
 
-        flag["init"] = 1
+        Flag["init"] = 1
