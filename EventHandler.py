@@ -2,7 +2,7 @@
 
 class EventHandler(object):
     def __init__(self):
-        Flag = {
+        self.Flag = {
         "init": 0
         }
 
@@ -10,4 +10,4 @@ class EventHandler(object):
 
 
 
-        Flag["init"] = 1
+        self.Flag["init"] = 1

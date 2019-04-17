@@ -1,4 +1,4 @@
 from EventHandler import *
 
 EventHandle = EventHandler()
-print(Flag["init"])
+print(EventHandle.Flag["init"])
