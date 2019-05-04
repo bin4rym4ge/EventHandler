@@ -33,7 +33,7 @@ class EventHandler(object):
         "KEY_SPACE": 0,
         "KEY_ENTER": 0
         }
-
         self.Flag["init"] = 1
+
     def keyhandle(self):
         rawinput()
